@@ -1,5 +1,5 @@
 # Self-Driving-Simulation
-Description
+
 
 GOAL
 
@@ -15,7 +15,7 @@ Environment: Keras With Theano (TensorFlow)
 
 Optional : Anaconda Package (Recommended)
 
-I. Installation 
+# I. Installation 
 Anaconda Distribution -  Windows
 https://www.anaconda.com/distribution/#download-section
 
@@ -23,12 +23,12 @@ Create a Python environment and automatically download the required Python packa
 
 > conda env create -f environment.yml 
 
-Structure 
+# Structure 
 
 Import Image 
 
 
--CODE DESCRIPTION
+# CODE DESCRIPTION
 
 model.py: model definition and training
 
