@@ -46,14 +46,14 @@ Environments.yml: conda environment (Use TensorFlow without GPU)
 utils.py: The script to provide useful functionalities (image pre-processing and augmentation)
 
 
-CNN algoritm 
+# CNN algoritm 
 
 
 ![Create model CNN](https://user-images.githubusercontent.com/53454881/63662618-15065a00-c7fa-11e9-96e7-8bb4a5ba3996.png)
 
 
 
-Diagram of Self Driving car drive model 
+# Diagram of Self Driving car drive model 
 
 
 ![Model Drive](https://user-images.githubusercontent.com/53454881/63662621-18014a80-c7fa-11e9-8c1e-5c8c8ad4fff0.png)
