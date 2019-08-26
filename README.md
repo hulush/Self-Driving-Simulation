@@ -19,6 +19,27 @@ I. Installation
 Anaconda Distribution -  Windows
 https://www.anaconda.com/distribution/#download-section
 
+Create a Python environment and automatically download the required Python packages.
+
+> conda env create -f environment.yml 
+
 Structure 
+
+
+
+
+
+Code descrition
+
+model.py: model definition and training
+
+model.h5 (a trained Keras model) model weights
+
+drive.py: interaction with the simulator (actually drive the car)
+
+Environments.yml: conda environment (Use TensorFlow without GPU)
+
+utils.py: The script to provide useful functionalities (image pre-processing and augmentation)
+
 
 
