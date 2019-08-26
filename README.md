@@ -41,4 +41,10 @@ Environments.yml: conda environment (Use TensorFlow without GPU)
 utils.py: The script to provide useful functionalities (image pre-processing and augmentation)
 
 
+# Precompiled builds of the simulator
+Instructions: Download the zip file, extract it and run the executable file.
+
+
+
+
 
