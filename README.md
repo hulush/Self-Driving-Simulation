@@ -25,9 +25,7 @@ Create a Python environment and automatically download the required Python packa
 
 Structure 
 
-
-
-
+Self driving system.png
 
 Code descrition
 
