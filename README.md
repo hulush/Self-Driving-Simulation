@@ -19,11 +19,11 @@ Optional : Anaconda Package (Recommended)
 Anaconda Distribution -  Windows
 https://www.anaconda.com/distribution/#download-section
 
-Create a Python environment and automatically download the required Python packages.
+- Create a Python environment and automatically download the required Python packages.
 
 > conda env create -f environment.yml 
 
-#Self Driving Simulator diagram
+-Self Driving Simulator diagram
  
 ![Main diagram](https://user-images.githubusercontent.com/53454881/63662526-be008500-c7f9-11e9-986a-06b1f7d68438.png)
 
