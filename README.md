@@ -25,9 +25,10 @@ Create a Python environment and automatically download the required Python packa
 
 Structure 
 
-https://raw.githubusercontent.com/hulush/Self-Driving-Simulation/master/Self%20driving%20system.png
+Import Image 
 
-Code descrition
+
+-CODE DESCRIPTION
 
 model.py: model definition and training
 
