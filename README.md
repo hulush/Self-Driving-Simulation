@@ -28,7 +28,7 @@ Create a Python environment and automatically download the required Python packa
 Import Image 
 
 
-![Create model CNN](https://user-images.githubusercontent.com/53454881/63662440-64985600-c7f9-11e9-8183-2e324469cad9.png)
+![Main diagram](https://user-images.githubusercontent.com/53454881/63662526-be008500-c7f9-11e9-986a-06b1f7d68438.png)
 
 
 
