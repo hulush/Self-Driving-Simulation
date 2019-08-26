@@ -44,5 +44,6 @@ utils.py: The script to provide useful functionalities (image pre-processing and
 # Precompiled builds of the simulator
 Instructions: Download the zip file, extract it and run the executable file.
 
-
+https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip
+Simulator
 
