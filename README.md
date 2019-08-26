@@ -64,3 +64,10 @@ Diagram of Self Driving car drive model
 Instructions: Download the zip file, extract it and run the executable file.
 
 Download : Simulator programm ()
+
+
+#Deep Learning With Lane Detection 
+
+Self-driving cars Lane detection use a blend of machine learning, computer vision and various other areas in order to take over the actions of a human driver, providing for safer and more reliable travel.
+
+
