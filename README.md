@@ -28,7 +28,7 @@ Create a Python environment and automatically download the required Python packa
 Import Image 
 
 
-# CODE DESCRIPTION
+# Python Code description
 
 model.py: model definition and training
 
