@@ -66,9 +66,4 @@ Instructions: Download the zip file, extract it and run the executable file.
 Download : Simulator programm ([https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip](url))
 
 
-
-# Deep Learning With Lane Detection 
-
-Self-driving cars Lane detection use a blend of machine learning, computer vision and various other areas in order to take over the actions of a human driver, providing for safer and more reliable travel.
-
-
+The model includes data normalization/zero-mean by 255/-0.5 using a Keras lambda layer, 5x5 and 3x3 convolutions using Keras Convolution2D, RELU layers to introduce nonlinearity, fully connected layers using Keras Flatten and Dense, and overfitting control using Keras Dropout. The loss is compiled using mean square error (mse) and adam optimizer.
