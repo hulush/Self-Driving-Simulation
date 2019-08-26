@@ -23,12 +23,13 @@ Create a Python environment and automatically download the required Python packa
 
 > conda env create -f environment.yml 
 
-# Structure 
-
-Import Image 
-
-
+#Self Driving Simulator diagram
+ 
 ![Main diagram](https://user-images.githubusercontent.com/53454881/63662526-be008500-c7f9-11e9-986a-06b1f7d68438.png)
+
+Training set is constituted by 8036 samples. For each sample, two main information is provided:
+- three frames from the frontal left and right camera respectively
+- the corresponding steering direction
 
 
 
