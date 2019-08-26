@@ -46,5 +46,3 @@ Instructions: Download the zip file, extract it and run the executable file.
 
 
 
-
-
