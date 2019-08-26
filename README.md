@@ -33,7 +33,7 @@ Training set is constituted by 8036 samples. For each sample, two main informati
 
 
 
-# Python Code description
+# II. Python Code description
 
 model.py: model definition and training
 
@@ -45,6 +45,7 @@ Environments.yml: conda environment (Use TensorFlow without GPU)
 
 utils.py: The script to provide useful functionalities (image pre-processing and augmentation)
 
+# III. Model algoritms
 
 # CNN algoritm 
 
@@ -59,6 +60,8 @@ utils.py: The script to provide useful functionalities (image pre-processing and
 ![Model Drive](https://user-images.githubusercontent.com/53454881/63662621-18014a80-c7fa-11e9-8c1e-5c8c8ad4fff0.png)
 
 The model includes data normalization/zero-mean by 255/-0.5 using a Keras lambda layer, 5x5 and 3x3 convolutions using Keras Convolution2D, RELU layers to introduce nonlinearity, fully connected layers using Keras Flatten and Dense, and overfitting control using Keras Dropout. The loss is compiled using mean square error (mse) and adam optimizer.
+
+# IV. Simulator
 
 # Precompiled builds of the simulator
 Instructions: Download the zip file, extract it and run the executable file.
