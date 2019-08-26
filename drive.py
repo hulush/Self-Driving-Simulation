@@ -29,8 +29,8 @@ speed_limit = MAX_SPEED
 @sio.on('telemetry')
 def telemetry(sid, data):
     if data:
-        # The current steering angle of the car
-        steering_angle = float(data["steering_angle"])
+       
+        steering_angle = float(data["steering_angle"])  # The current steering angle of the car
         # The current throttle of the car
         throttle = float(data["throttle"])
         # The current speed of the car
