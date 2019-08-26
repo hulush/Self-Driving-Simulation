@@ -68,6 +68,11 @@ Instructions: Download the zip file, extract it and run the executable file.
 
 Download : Simulator programm ([https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip](url))
 
+# Runnning 
+
+      >	python drive.py model.h5 
+      
+
 # Training results
 In order to gauge how well the model was working, I split my image and steering angle data into a training and validation set.
 For track 1, after some experimentation, I noted that a loss of about 0.02 for train and validation, in general, would start to diverge (overfitting), so I have used an early stop function. Trained 5 epochs. The model worked great on ‘fastest’ mode of the Udacity simulator, even up to 30MPH speed target
