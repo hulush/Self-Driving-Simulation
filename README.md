@@ -58,7 +58,7 @@ utils.py: The script to provide useful functionalities (image pre-processing and
 
 ![Model Drive](https://user-images.githubusercontent.com/53454881/63662621-18014a80-c7fa-11e9-8c1e-5c8c8ad4fff0.png)
 
-
+The model includes data normalization/zero-mean by 255/-0.5 using a Keras lambda layer, 5x5 and 3x3 convolutions using Keras Convolution2D, RELU layers to introduce nonlinearity, fully connected layers using Keras Flatten and Dense, and overfitting control using Keras Dropout. The loss is compiled using mean square error (mse) and adam optimizer.
 
 # Precompiled builds of the simulator
 Instructions: Download the zip file, extract it and run the executable file.
@@ -66,4 +66,4 @@ Instructions: Download the zip file, extract it and run the executable file.
 Download : Simulator programm ([https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip](url))
 
 
-The model includes data normalization/zero-mean by 255/-0.5 using a Keras lambda layer, 5x5 and 3x3 convolutions using Keras Convolution2D, RELU layers to introduce nonlinearity, fully connected layers using Keras Flatten and Dense, and overfitting control using Keras Dropout. The loss is compiled using mean square error (mse) and adam optimizer.
+
