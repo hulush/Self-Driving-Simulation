@@ -63,7 +63,7 @@ Diagram of Self Driving car drive model
 # Precompiled builds of the simulator
 Instructions: Download the zip file, extract it and run the executable file.
 
-Download : Simulator programm ()
+Download : Simulator programm ([https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip](url))
 
 
 
